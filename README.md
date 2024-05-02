@@ -152,10 +152,22 @@ Configure Help Topics
 
  <img src="https://i.imgur.com/9fkjGRm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
- - Business Critical Outage
- - Personal Computer Issues
- - Equipment Request
- - Password Reset
+ - Add Business Critical Outage Help Topic
+    - Click Add New Help Topic
+    - Type Business Critcial Outage in topic box
+    - Click Save Changes
+ - Add Personal Computer Issues Help Topic
+    - Click Add New Help Topic
+    - Type Personal Computer Issues in topic box
+    - Click Save Changes
+ - Add Equipment Request Help Topic
+    - Click Add New Help Topic
+    - Type Equipment Request Help in topic box
+    - Click Save Changes
+ - Add Password Reset Help Topic
+    - Click Add New Help Topic
+    - Type Password Reset Help in topic box
+    - Click Save Changes
 
 <br />
 
