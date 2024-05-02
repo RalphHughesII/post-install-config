@@ -84,9 +84,8 @@ Configure Agents (workers)
       - Input name and email address
       - Create a username and password (uncheck change password at login)
       - Open the access tab.
-      - 
-                 - Assign him in the support department
-                 - Assign him view only role
+         - Assign him in the support department
+         - Assign him view only role
        - Click create
 
 
