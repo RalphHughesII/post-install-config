@@ -37,7 +37,7 @@ Configure Roles
  
  - Click add new role and input a name (Example: Supreme Admin).  
 
- - Select Permissions and enable all available permissions.
+ - Select Permissions and enable all available permissions for Tickets, Tasks, and Knowledgebase
 
 <img src="https://i.imgur.com/xRXrTA2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
