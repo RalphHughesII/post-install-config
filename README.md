@@ -136,7 +136,14 @@ Configure SLA
 <img src="https://i.imgur.com/Jzimwe8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-Configure Sev-C (8 hours, business hours)
+ - Configure Sev-C (8 hours, business hours)
+   - Click Add New SLA Plan
+     - Insert SEV-C in name entry
+     - Set 8 hour for grace period
+     - Set Monday - Friday 8am - 5pm with U.S. Holidays for Schedule
+     - Click Add Plan
+     - 
+<img src="https://i.imgur.com/vtdAZVl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 
