@@ -41,6 +41,13 @@ Configure Roles
 
 <img src="https://i.imgur.com/xRXrTA2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Configure Departments
+ - Admin Panel -> Agents -> Departments
+ 
+ <img src="https://i.imgur.com/lEUaRbw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ - System Administrators
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
