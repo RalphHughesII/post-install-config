@@ -116,9 +116,9 @@ Configure SLA
 
 <img src="https://i.imgur.com/e7qV4MI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
- Sev-A (1 hour, 24/7)
-Sev-B (4 hours, 24/7)
-Sev-C (8 hours, business hours)
+Configure Sev-A for (1 hour, 24/7)
+Configure Sev-B (4 hours, 24/7)
+Configure Sev-C (8 hours, business hours)
 
 <br />
 
