@@ -75,9 +75,9 @@ Configure Agents (workers)
       - Open the access tab.
          - Assign her in system administrators department
          - Assign her Supreme Admin role
-       - Open the Teams tab
+    - Open the Teams tab
           - Assign her to level II support
-       - Click create
+    - Click create
   
  - Add John doe as a user
 
@@ -89,9 +89,13 @@ Configure Agents (workers)
        - Click create
 
 Configure Users (customers)
-Agent Panel -> Users -> Add New
-Karen
-Ken
+
+ - Swtich to Agent Panel -> Users -> Add New
+
+   <img src="https://i.imgur.com/7hCvoSn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ - Karen
+ - Ken
 
 
 
