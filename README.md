@@ -156,6 +156,9 @@ Configure Help Topics
     - Click Add New Help Topic
     - Type Business Critcial Outage in topic box
     - Click Save Changes
+
+   <img src="https://i.imgur.com/I02DacW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
  - Add Personal Computer Issues Help Topic
     - Click Add New Help Topic
     - Type Personal Computer Issues in topic box
