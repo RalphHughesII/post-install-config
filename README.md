@@ -163,6 +163,8 @@ Configure Help Topics
     - Click Add New Help Topic
     - Type Personal Computer Issues in topic box
     - Click Save Changes
+
+  <img src="https://i.imgur.com/ZmHQPZG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  - Add Equipment Request Help Topic
     - Click Add New Help Topic
     - Type Equipment Request Help in topic box
