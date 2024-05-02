@@ -142,8 +142,20 @@ Configure SLA
      - Set 8 hour for grace period
      - Set Monday - Friday 8am - 5pm with U.S. Holidays for Schedule
      - Click Add Plan
-     - 
+       
 <img src="https://i.imgur.com/vtdAZVl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+Configure Help Topics
+
+ - Navigate to Admin Panel -> Manage -> Help Topics
+
+ <img src="https://imgur.com/a/50FTt0u" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ - Business Critical Outage
+ - Personal Computer Issues
+ - Equipment Request
+ - Password Reset
 
 <br />
 
