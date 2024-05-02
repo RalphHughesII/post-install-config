@@ -45,8 +45,15 @@ Configure Departments
  - Admin Panel -> Agents -> Departments
  
  <img src="https://i.imgur.com/lEUaRbw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- 
- - System Administrators
+
+  - Click "Add New Department"
+        - Type System Administrators in the Name box
+
+Configure Teams
+ - Admin Panel -> Agents -> Teams
+ - Level I Support
+ - Level II Support
+
 
 
 <p>
