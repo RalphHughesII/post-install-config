@@ -32,8 +32,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 Configure Roles
  - Admin Panel -> Agents -> Roles
 
+<img src="https://i.imgur.com/9fkjGRm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/ZaAeyyM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
  - Click add new role and input a name (Example: Supreme Admin).  
 
