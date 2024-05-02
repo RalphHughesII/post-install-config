@@ -69,6 +69,7 @@ Configure Agents (workers)
  
  
 - Add Jane as a user
+  
       - Input name and email address
       - Create a username and password (uncheck change password at login)
       - Open the access tab.
