@@ -150,7 +150,7 @@ Configure Help Topics
 
  - Navigate to Admin Panel -> Manage -> Help Topics
 
- <img src="https://imgur.com/a/50FTt0u" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/9fkjGRm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
  - Business Critical Outage
  - Personal Computer Issues
