@@ -84,6 +84,7 @@ Configure Agents (workers)
       - Input name and email address
       - Create a username and password (uncheck change password at login)
       - Open the access tab.
+
                - Assign her in system administrators department
                - Assign her Supreme Admin role
        - Open the Teams tab
