@@ -54,8 +54,16 @@ Configure Teams
 
 <img src="https://i.imgur.com/I1tu83I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- - Level I Support
- - Level II Support
+ - Click on Add New Team.  Name it Level II Support and click create team
+
+Allow anyone to create tickets
+ - Navigate to Admin Panel -> Settings -> User Settings.
+ - Make sure require registration and login to create tickets is unchecked
+
+<img src="https://i.imgur.com/1zN6CnN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ - Registration Required: Require registration and login to create tickets 
+
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
