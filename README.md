@@ -94,8 +94,16 @@ Configure Users (customers)
 
    <img src="https://i.imgur.com/7hCvoSn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- - Karen
- - Ken
+ - Click Add User
+    - Add Karen Doe as a user
+    - Input email address
+    - Click add user
+    - Click user
+
+   - Click Add User
+    - Add Ken Doe as a user
+    - Input email address
+    - Click add user
 
 
 
