@@ -51,10 +51,13 @@ Configure Departments
 
 Configure Teams
  - Admin Panel -> Agents -> Teams
+
+<img src="https://i.imgur.com/I1tu83I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
  - Level I Support
  - Level II Support
 
-
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
