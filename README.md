@@ -171,7 +171,7 @@ Configure Help Topics
     - Type Equipment Request Help in topic box
     - Click Save Changes
   
-  <img src="https://imgur.com/a/CZZrcC4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/a/CZZrcC4" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
  
  - Add Password Reset Help Topic
     - Click Add New Help Topic
