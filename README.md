@@ -110,7 +110,9 @@ Configure Users (customers)
 </p>
 <p>
 Configure SLA
-Switch to Admin Panel -> Manage -> SLA
+
+ Switch to Admin Panel -> Manage -> SLA
+
 
 <img src="https://i.imgur.com/e7qV4MI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
