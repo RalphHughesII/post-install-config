@@ -70,8 +70,8 @@ Configure Agents (workers)
  
 - Add Jane doe as a user
   
-      - Input name and email address
-      - Create a username and password (uncheck change password at login)
+   - Input name and email address
+   - Create a username and password (uncheck change password at login)
       - Open the access tab.
          - Assign her in system administrators department
          - Assign her Supreme Admin role
@@ -87,6 +87,12 @@ Configure Agents (workers)
          - Assign him in the support department
          - Assign him view only role
        - Click create
+
+Configure Users (customers)
+Agent Panel -> Users -> Add New
+Karen
+Ken
+
 
 
 
