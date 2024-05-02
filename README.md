@@ -68,7 +68,7 @@ Configure Agents (workers)
 <img src="https://i.imgur.com/I4shSGX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
  
-- Add Jane as a user
+- Add Jane doe as a user
   
       - Input name and email address
       - Create a username and password (uncheck change password at login)
@@ -79,8 +79,16 @@ Configure Agents (workers)
                 - Assign her to level II support
        - Click create
   
- - Add John as a user
+ - Add John doe as a user
 
+      - Input name and email address
+      - Create a username and password (uncheck change password at login)
+      - Open the access tab.
+               - Assign her in system administrators department
+               - Assign her Supreme Admin role
+       - Open the Teams tab
+                - Assign her to level II support
+       - Click create
 
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
