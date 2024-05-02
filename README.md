@@ -120,9 +120,22 @@ Configure SLA
      - Click Add New SLA Plan
      - Insert SEV-A in name entry
      - Set 1 hour for grace period
+     - Set 24/7 for Schedule
      - Click Add Plan
-       
+
+<img src="https://i.imgur.com/CTMk3jq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
  - Configure Sev-B (4 hours, 24/7)
+   - Click Add New SLA Plan
+     - Insert SEV-B in name entry
+     - Set 4 hour for grace period
+     - Set 24/7 for Schedule
+     - Click Add Plan
+
+<img src="https://i.imgur.com/Jzimwe8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 Configure Sev-C (8 hours, business hours)
 
 <br />
